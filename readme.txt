@@ -1,0 +1,1 @@
+El dataset que se ocupo para el Proyecto : Introduccion al analisis Estadistico se descargo de la pagina de www.kaggle.com a continuación se enlista la url donde se descargo dicho archivo .cvs https://drive.google.com/file/d/1jqZ6--OOGk477xv_yxqyell8RBtlOXL8/view
